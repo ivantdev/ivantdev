@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hola! Soy Ivan
+![enter image description here](https://objects.ivant.dev/public/images/banner.png)
 
-<!--
-**ivantdev/ivantdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Codeo en
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React.js, JavaScript, CSS, HTML
+## Encuentrame en 🔗
+- [Mi sitio web](https://ivant.dev/) 😏
+- [LinkedIn](https://co.linkedin.com/in/nelson-ivan-castellanos-35287b218)
+- [Twitter](https://twitter.com/ivantdev)
+## Proyectos más top 🌟
+-	Weather App - Consulta pronósticos del clima
+-	- [Visitalo aquí](https://projects.ivant.dev/weather/)
+- - [GitHub Repo](https://github.com/ivantdev/weather-app)
+-	ToDos - Administra tus tareas
+-	- [Visitalo aquí](https://projects.ivant.dev/todos/)
+- - [GitHub Repo](https://github.com/ivantdev/todo-app)
+-	Pokedex - 
+-	- [Visitalo aquí](https://projects.ivant.dev/pokedex/)
+- - [GitHub Repo](https://github.com/ivantdev/pokedex)

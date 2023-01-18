@@ -1,9 +1,9 @@
 # Hola! Soy Ivan
 ![enter image description here](https://objects.ivant.dev/public/images/banner.png)
 
-## Codeo en
+## stack
 
-React.js, JavaScript, CSS, HTML
+React.js, JavaScript, CSS, HTML, Django, Rust, Postgresql
 ## Encuentrame en 🔗
 - [Mi sitio web](https://ivant.dev/) 😏
 - [LinkedIn](https://co.linkedin.com/in/nelson-ivan-castellanos-35287b218)

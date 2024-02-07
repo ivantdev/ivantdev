@@ -2,7 +2,7 @@
 
 ## stack
 
-React.js, JavaScript, CSS, HTML, Django, Rust, Postgresql
+React.js, JavaScript, CSS, HTML, Django, FastAPI, Rust, Postgresql
 ## Encuentrame en 🔗
 - [Mi sitio web](https://ivant.dev/) 😏
 - [LinkedIn](https://co.linkedin.com/in/nelson-ivan-castellanos-35287b218)

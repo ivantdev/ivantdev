@@ -1,5 +1,4 @@
 # Hola! Soy Ivan
-![enter image description here](https://objects.ivant.dev/public/images/banner.png)
 
 ## stack
 
